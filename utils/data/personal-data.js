@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/14882313/satyam-choubey',
   leetcode: "https://leetcode.com/satyamchoubey789/",
   devUsername: "satyamchoubey",
-  resume: "https://drive.google.com/file/d/1BCOzC70uAE7DoR5NnDP5vKhnJHUl_Qnt/view?usp=sharing", // add link of your resume, if any
+  resume: "", // add link of your resume, if any
 }
